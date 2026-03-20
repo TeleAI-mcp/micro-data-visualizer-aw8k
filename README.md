@@ -1,2 +1,3 @@
-# micro-data-visualizer-aw8k
+# Micro Data Visualizer Aw8K
+
 A repository to test GitHub automation for issue management.
